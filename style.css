@@ -1,0 +1,16 @@
+body{
+background-size: cover;
+background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#object{
+    font-size: 15px;
+    background-color: greenyellow;
+    width:50%;
+    border-radius: 10px;
+}

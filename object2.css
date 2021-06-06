@@ -1,0 +1,12 @@
+#status, #no.num
+{
+font-size: 18px;
+}
+canvas{
+border: 2px solid grey;
+border-radius: 20px;
+}
+#image{
+width: 300px;
+height: 300px;
+}
